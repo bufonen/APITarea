@@ -54,6 +54,9 @@ El caché es para: El mensaje
 "304 Not Modified" no es realmente un error 
 - es una respuesta HTTP normal que indica que 
 el navegador está usando una versión en 
+
+
+
 caché del archivo app.js porque no ha cambiado.
  Es completamente normal y no afecta la funcionalidad.
 """
