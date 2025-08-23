@@ -9,8 +9,6 @@ connection_string = (
     'Trusted_Connection=yes;'
 )
 
- 
-####CAROLINA####
-
 def get_connection():
     return pyodbc.connect(connection_string)
+  
